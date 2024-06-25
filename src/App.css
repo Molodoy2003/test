@@ -1,0 +1,23 @@
+.table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,
+td {
+	border: 2px solid black;
+	text-align: center;
+	padding: 1px;
+}
+
+th {
+	background-color: #fff;
+}
+
+.true {
+	background-color: #1e9930;
+}
+
+.false {
+	background-color: #fff;
+}
